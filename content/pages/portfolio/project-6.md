@@ -1,6 +1,6 @@
 ---
 title: Onasander
-subtitle: Brand Development
+subtitle: Ancestry Reworked
 date: '2021-02-06'
 thumb_image: images/optTIPI005_c_web.jpg
 thumb_image_alt: Subtle preview
