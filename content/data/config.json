@@ -6,7 +6,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "Agency",
-        "logo": "images/google-logo2.png",
+        "logo": "images/google-logo_bl_tr.png",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
