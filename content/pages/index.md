@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+    title: '"Music is sound, sound doesn´t have to be musical..."'
     content: |
       ![](http://tipitoken.com/wp-content/uploads/2021/05/glitchy.gif)
   - type: portfolio_section
