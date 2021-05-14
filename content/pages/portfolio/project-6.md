@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/optTIPI005_c_web.jpg
     image_alt: Onasander
-    caption: This is the caption of the image
+    caption: Ancestry Reworked
     width: regular
   - type: text_section
     content: >-
