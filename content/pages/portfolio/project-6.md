@@ -7,7 +7,7 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image: images/optTIPI005_c_web.jpg
-    image_alt: Subtle 1
+    image_alt: anO
     caption: This is the caption of the image
     width: regular
   - type: text_section
