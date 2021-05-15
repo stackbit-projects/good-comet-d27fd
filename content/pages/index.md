@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: '"Music is sound, sound doesn´t have to be musical..."'
     content: |
-      ![](http://tipitoken.com/wp-content/uploads/2021/05/glitchy.gif)
+      ![]()
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
